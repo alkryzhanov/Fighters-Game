@@ -1,5 +1,7 @@
 # Fighters game :muscle::facepunch::boom:
 
+Here I had the opportunity to create an interesting game by following the necessary requirements and creating the necessary functions.
+
 ## 1) Create a Fighter:
 
 You should create a function or class **‘Fighter’** which takes an object with fighter properties and returns interface with fighter methods:
