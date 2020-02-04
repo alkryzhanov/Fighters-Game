@@ -80,6 +80,10 @@ winner’s ‘wins’ property and loser’s ‘losses’ property by one.
 If at the start of battle one of given fighter’s is dead (his HP equal to 0), battle shouldn’t be simulated and warning message 
 about it should be logged in console.
 
+## Demonstration
+
+[Here in the console](https://kanoleg.com/fighters-game/) you can come up with your fighters and after checking the work of this program the correct function.
+
 **Example**
 ```javascript
 const myFighter1 = new Fighter({name: 'Maximus', damage: 20, strength: 20, agility: 15, hp: 100});
